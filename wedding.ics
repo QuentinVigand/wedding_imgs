@@ -1,0 +1,21 @@
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DTSTAMP:20250809T152541Z
+ORGANIZER;CN=6ff9a6032f2fbad4bec04e14848f6beedebeb1f409aa970fd45bd7926c4f22
+ 89@group.calendar.google.com:mailto:6ff9a6032f2fbad4bec04e14848f6beedebeb1f
+ 409aa970fd45bd7926c4f2289@group.calendar.google.com
+UID:1desqr9dn7sqsbl8rplkoe0tbk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=he
+ loiseblcx@gmail.com;X-NUM-GUESTS=0:mailto:heloiseblcx@gmail.com
+CLASS:PUBLIC
+CREATED:20250720T134240Z
+DESCRIPTION:Mariage d'Héloïse et Quentin\nDescription : TODO
+LAST-MODIFIED:20250720T141445Z
+LOCATION:Château de Villefargeau\, 1 All. du Château\, 89240 Villefargeau\,
+  France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mariage Héloïse et Quentin
+TRANSP:TRANSPARENT
+END:VEVENT
