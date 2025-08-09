@@ -1,7 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mariage Héloïse & Quentin
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Mariage d'Héloïse et Quentin.\nLieu : 1 Allée du Château\, 892
+ 40 Villefargeau\nLien maps : https://maps.app.goo.gl/ynKEffp2yw45BHjy9\nDér
+ oulé : TODO
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20250809T152541Z
+DTSTAMP:20250809T154616Z
 ORGANIZER;CN=6ff9a6032f2fbad4bec04e14848f6beedebeb1f409aa970fd45bd7926c4f22
  89@group.calendar.google.com:mailto:6ff9a6032f2fbad4bec04e14848f6beedebeb1f
  409aa970fd45bd7926c4f2289@group.calendar.google.com
@@ -19,3 +29,4 @@ STATUS:CONFIRMED
 SUMMARY:Mariage Héloïse et Quentin
 TRANSP:TRANSPARENT
 END:VEVENT
+END:VCALENDAR
