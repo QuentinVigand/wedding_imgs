@@ -6,12 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mariage Héloïse & Quentin
 X-WR-TIMEZONE:Europe/Paris
 X-WR-CALDESC:Mariage d'Héloïse et Quentin.\nLieu : 1 Allée du Château\, 892
- 40 Villefargeau\nLien maps : https://maps.app.goo.gl/ynKEffp2yw45BHjy9\nDér
- oulé : TODO
+ 40 Villefargeau\nLien maps : https://maps.app.goo.gl/ynKEffp2yw45BHjy9\n
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260614
-DTSTAMP:20250809T154616Z
+DTSTAMP:20250811T080618Z
 ORGANIZER;CN=6ff9a6032f2fbad4bec04e14848f6beedebeb1f409aa970fd45bd7926c4f22
  89@group.calendar.google.com:mailto:6ff9a6032f2fbad4bec04e14848f6beedebeb1f
  409aa970fd45bd7926c4f2289@group.calendar.google.com
@@ -20,8 +19,8 @@ ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=he
  loiseblcx@gmail.com;X-NUM-GUESTS=0:mailto:heloiseblcx@gmail.com
 CLASS:PUBLIC
 CREATED:20250720T134240Z
-DESCRIPTION:Mariage d'Héloïse et Quentin\nDescription : TODO
-LAST-MODIFIED:20250720T141445Z
+DESCRIPTION:Mariage d'Héloïse et Quentin 🩵
+LAST-MODIFIED:20250811T075856Z
 LOCATION:Château de Villefargeau\, 1 All. du Château\, 89240 Villefargeau\,
   France
 SEQUENCE:0
